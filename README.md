@@ -1,2 +1,2 @@
 # Sundein
-Repo for the minecraft server Sundein
+Repo, created for containing the minecraft server Sundein wiki
