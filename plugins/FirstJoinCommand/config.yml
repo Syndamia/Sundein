@@ -1,0 +1,2 @@
+Commands-To-Run-Upon-First-Join:
+- lp user %player_name% parent set player

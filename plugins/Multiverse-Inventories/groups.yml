@@ -1,0 +1,31 @@
+# Multiverse-Inventories Groups
+
+# To ADD, DELETE, and EDIT groups use the command /mvinv group.
+# No support will be given for those who manually edit these groups.
+groups:
+  default:
+    worlds:
+    - hub_the_end
+    - hub
+    shares:
+    - all
+  smp:
+    worlds:
+    - SMP_the_end
+    - SMP
+    - SMP_nether
+    shares:
+    - all
+  hub:
+    worlds:
+    - hub_the_end
+    - hub
+    shares:
+    - all
+  Skyblock:
+    worlds:
+    - Skyblock
+    - Skyblock_nether
+    - Skyblock_the_end
+    shares:
+    - all

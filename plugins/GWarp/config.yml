@@ -1,0 +1,42 @@
+Lang:
+  lang: en_en
+  
+Options:
+  check-for-update-on-reload: true
+  check-for-update-on-join: true
+  use-warp: true
+  use-awarp: true
+  default-warp-amount: 5
+  warp-teleport-cooldown-seconds: 20
+  use-save-warp: false
+  use-warp-shortcards: true
+  show-all-visitors-reset: true
+  warp-list-page-amount: 10
+  warp-top-amount: 30
+  warp-top-min-visitors: 1
+  warp-owner-add-visitor: true
+  warp-only-in-world: false
+  min-warp-length: 1
+  max-warp-length: 20
+  min-warp-password-length: 1
+  max-warp-password-length: 15
+  min-awarp-length: 1
+  max-awarp-length: 20
+  min-awarp-password-length: 1
+  max-awarp-password-length: 15
+  use-home: true
+  default-home-amount: 10
+  home-teleport-cooldown-seconds: 0
+  min-home-length: 1
+  max-home-length: 20
+  
+WarpEffectOptions:
+  particle-amount: 50
+  particle-offset-x: 1.0
+  particle-offset-y: 1.0
+  particle-offset-z: 1.0
+  particle-speed: 0.5
+  
+WarpSoundOptions:
+  sound-volume: 1.0
+  sound-pitch: 1.0

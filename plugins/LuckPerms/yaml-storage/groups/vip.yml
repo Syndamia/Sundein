@@ -1,0 +1,21 @@
+name: vip
+permissions:
+- gwarp.*
+- gwarp.warp.*
+- multiverse.teleport.*
+- skinsrestorer.*:
+    value: false
+- skinsrestorer.command.*
+- bukkit.command.help
+- bukkit.command.plugins
+- bukkit.command.tps
+- bukkit.command.version
+- minecraft.command.seed
+- minecraft.command.teleport
+- multiverse.access
+- skinsrestorer.bypasscooldown
+- skinsrestorer.command.set.other:
+    value: false
+prefixes:
+- '&2&l[VIP] &2':
+    priority: 4

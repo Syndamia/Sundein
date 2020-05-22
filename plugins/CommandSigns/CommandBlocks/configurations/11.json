@@ -1,0 +1,34 @@
+{
+  "id": 11,
+  "disabled": false,
+  "activation_mode": "BOTH",
+  "location": {
+    "x": 8.0,
+    "y": 5.0,
+    "z": 12.0,
+    "world": "hub"
+  },
+  "timer": {
+    "duration": 0,
+    "cancelled_on_move": false,
+    "reset_on_move": false
+  },
+  "commands": [
+    "/gamemode survival"
+  ],
+  "temporarily_granted_permissions": [],
+  "addons": {
+    "ncs_economy": {
+      "price": 0.0
+    },
+    "ncs_required_permissions": {
+      "required_permissions": []
+    },
+    "ncs_cooldowns": {
+      "global_cooldown": -1,
+      "player_cooldown": -1,
+      "is_global_once": false,
+      "is_player_once": false
+    }
+  }
+}

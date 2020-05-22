@@ -1,0 +1,14 @@
+per-world-playerlist: false
+allow-pwp-bypass-permission: false
+ignore-pwp-in-worlds:
+- ignoredworld
+- spawn
+sort-players-by-nickname: false
+sort-players-by-permissions: false
+fix-pet-names: false
+use-primary-group: true
+primary-group-finding-list:
+- Owner
+- Admin
+- Helper
+- default

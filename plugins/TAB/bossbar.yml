@@ -1,0 +1,22 @@
+enabled: false
+refresh-interval: 20
+bars:
+  ServerInfo:
+    refresh: 5000
+    frames:
+      frame1:
+        style: PROGRESS
+        color: BLUE
+        progress: '33'
+        text: '&fWebsite: &bwww.domain.com'
+      frame2:
+        style: NOTCHED_12
+        color: GREEN
+        progress: '67'
+        text: '&fDiscord: &adiscord.io/servername'
+      frame3:
+        style: PROGRESS
+        color: NOTCHED_20
+        progress: '100'
+        text: '&fTeamSpeak: &ets3.servername.eu'
+bossbar-toggle-command: /bossbar

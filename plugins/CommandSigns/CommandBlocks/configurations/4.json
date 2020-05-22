@@ -1,0 +1,39 @@
+{
+  "id": 4,
+  "name": "SMP to Hub (copy) (copy) (copy)",
+  "disabled": false,
+  "activation_mode": "BOTH",
+  "location": {
+    "x": -3.0,
+    "y": 70.0,
+    "z": 2.0,
+    "world": "SMP"
+  },
+  "timer": {
+    "duration": 0,
+    "cancelled_on_move": false,
+    "reset_on_move": false
+  },
+  "commands": [
+    "/mvtp hub",
+    "/gamemode adventure"
+  ],
+  "temporarily_granted_permissions": [
+    "multiverse.teleport.*",
+    "minecraft.command.gamemode"
+  ],
+  "addons": {
+    "ncs_economy": {
+      "price": 0.0
+    },
+    "ncs_required_permissions": {
+      "required_permissions": []
+    },
+    "ncs_cooldowns": {
+      "global_cooldown": -1,
+      "player_cooldown": -1,
+      "is_global_once": false,
+      "is_player_once": false
+    }
+  }
+}

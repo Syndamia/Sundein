@@ -1,0 +1,23 @@
+name: admin
+permissions:
+- bukkit.command.*
+- chatmanager.*
+- gwarp.*
+- lpc.*
+- luckperms.*
+- multiverse.*
+- mv.*
+- petmaster.*
+- skinsrestorer.*
+- sleepy.*
+- bukkit.command.reload
+- minecraft.admin
+- minecraft.command.ban
+- minecraft.command.kick
+- minecraft.command.pardon
+- minecraft.command.teleport
+- minecraft.debugstick
+- weight.9
+prefixes:
+- '&c&l[Admin] &c':
+    priority: 9

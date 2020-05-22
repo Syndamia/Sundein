@@ -1,0 +1,9 @@
+backups/
+logs/
+Skyblock/
+Skyblock_nether/
+Skyblock_the_end/
+SMP/
+SMP_nether/
+SMP_the_end/
+./usercache.json
