@@ -1,7 +1,0 @@
-uuid: 34330ded-8cc8-3c23-8fec-58a11671b064
-name: Syndamia
-primary-group: owner
-permissions:
-- luckperms.*
-parents:
-- owner

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -Xms3G -Xmx3G -XX:+UseConcMarkSweepGC -jar spigot-1.14.4.jar
+java -Xms6G -Xmx6G -jar spigot-1.16.1.jar nogui

@@ -1,4 +1,0 @@
-format: '{PREFIX}{PLAYER_NAME}&f: {MESSAGE}'
-permission: '&7&l[&b&lL&3&lP&8&lC&7&l] &cYou do not have permission to use this command!'
-usage: '&7&l[&b&lL&3&lP&8&lC&7&l] &cUsage: /lpc reload'
-reload: '&7&l[&b&lL&3&lP&8&lC&7&l] &aThe configuration file was reloaded.'

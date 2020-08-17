@@ -1,4 +1,0 @@
-name: default
-permissions:
-- skinsrestorer.*:
-    value: false
