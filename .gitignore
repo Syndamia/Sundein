@@ -7,3 +7,8 @@ SMP/
 SMP_nether/
 SMP_the_end/
 ./usercache.json
+plugins/
+!plugins/TAB/
+!plugins/LuckPerms/
+plugins/LuckPerms/users/
+plugins/LuckPerms/yaml-storage/uuidcache.txt

@@ -1,5 +1,7 @@
 # LuckPerms UUID lookup cache
 a65fe7f9-313c-3372-9640-599a0dd3ef61:Dengazi
 4c6be09d-aaa3-3d42-afca-113f9f75f56f:jasson11bb
+d0c49ccd-e681-3271-aa94-d5464bcdc62f:Niscyn8
+a142c296-c755-38dc-b95c-c90d363b919c:Tody81
 3ce673c9-b782-35fa-b42f-34045602c912:Niscyn
 34330ded-8cc8-3c23-8fec-58a11671b064:Syndamia
